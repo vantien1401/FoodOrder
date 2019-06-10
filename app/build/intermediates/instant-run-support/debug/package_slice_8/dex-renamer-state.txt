@@ -1,0 +1,4 @@
+#Mon Jun 03 16:04:03 ICT 2019
+base.0=F\:\\Tien\\Code\\Old\\FormTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

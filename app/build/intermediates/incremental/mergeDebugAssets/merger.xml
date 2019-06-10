@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\Tien\Code\Old\FormTest\app\src\main\assets"><file name="databases/FormTestDB.db" path="F:\Tien\Code\Old\FormTest\app\src\main\assets\databases\FormTestDB.db"/><file name="fonts/Nabila.otf" path="F:\Tien\Code\Old\FormTest\app\src\main\assets\fonts\Nabila.otf"/></source><source path="F:\Tien\Code\Old\FormTest\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\Tien\Code\Old\FormTest\app\src\debug\assets"/></dataSet></merger>

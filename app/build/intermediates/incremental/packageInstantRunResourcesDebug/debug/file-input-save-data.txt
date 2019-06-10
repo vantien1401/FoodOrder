@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Jun 03 16:03:53 ICT 2019
+1.base=F\:\\Tien\\Code\\Old\\FormTest\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=databases/FormTestDB.db
+0.set=ASSET
+0.base=F\:\\Tien\\Code\\Old\\FormTest\\app\\build\\intermediates\\assets\\debug
+1.path=fonts/Nabila.otf

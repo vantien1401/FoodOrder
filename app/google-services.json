@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "718831924864",
+    "firebase_url": "https://formtest-85391.firebaseio.com",
+    "project_id": "formtest-85391",
+    "storage_bucket": "formtest-85391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718831924864:android:b6c1ff5822a4ae93",
+        "android_client_info": {
+          "package_name": "com.example.tien.formtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718831924864-0abqjih1k92du7v21b7rctab3hj61dbf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tien.formtest",
+            "certificate_hash": "a16df9f855d164ac0c2969f37e4a789c1cbd358e"
+          }
+        },
+        {
+          "client_id": "718831924864-gn3l7el3td1cijg2bosq1auokfi25evl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgE8F82FnA-0WaTZ46hTVjPiCHUx_14Xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718831924864-gn3l7el3td1cijg2bosq1auokfi25evl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
